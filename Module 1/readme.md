@@ -12,3 +12,5 @@ Video 3: This teaches how to build a router in LangChain, where a chat model dec
 
 
 Video 4:This notebook teaches how to create a generic agent architecture in LangChain. It builds on the router concept by allowing the model not just to call tools but to continuously loop between reasoning and acting, passing tool results back to itself until a final answer is reached. Essentially, it shows how to make a self-directed AI agent that can think, act, and respond autonomously.
+
+Video 5: This teaches how to build an AI agent with memory using LangGraph and LangChain. It extends a basic agent that can act, observe, and reason by adding memory to retain context across interactions. The lesson shows how to define tools, connect them to an LLM, and create a reactive graph structure that uses stored information to make better decisions in later steps.
