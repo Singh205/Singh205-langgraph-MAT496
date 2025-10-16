@@ -6,3 +6,6 @@ Video 1: This notebook teaches how to build a simple conditional graph using the
 
 
 Video 2: This notebook teaches how to build a simple LangChain chain that connects key components of the framework. It guides you through using chat messages as state, chat models as nodes, and tools that can be bound and executed within those nodes. Essentially, it shows how to create a structured conversational workflow — a chain — combining model reasoning, message flow, and tool interaction
+
+
+Video 3: This teaches how to build a router in LangChain, where a chat model decides between giving a direct response or calling a tool based on user input. It demonstrates how an LLM can control the flow of a conversation — effectively acting as a simple agent that routes tasks intelligently depending on context.
