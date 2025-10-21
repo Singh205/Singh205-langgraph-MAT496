@@ -35,6 +35,10 @@ Video 5: A chatbot with summarizing messages and memory uses state schemas to st
 Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
 
 ---
+Video 6: a chatbot with message summarization and external DB memory basically keeps things light — it summarizes recent chats so the graph doesn’t get bloated, and dumps older or important stuff into a database like Redis or Postgres. That way, it can remember things across sessions without dragging the whole chat history around every time.
+
+
+Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
 
 
 ---
