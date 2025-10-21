@@ -27,5 +27,14 @@ Both prevent token overflow and keep the AI focused on relevant information
 
 source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
 
+---
+
+
+Video 5: A chatbot with summarizing messages and memory uses state schemas to store conversation history and automatically condenses past interactions into summaries. These summaries help maintain context across graph nodes, enabling the AI to respond intelligently without reprocessing the entire chat. Memory updates are managed through state reducers, keeping the graph efficient and context-aware.
+
+Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
+
+---
+
 
 ---
