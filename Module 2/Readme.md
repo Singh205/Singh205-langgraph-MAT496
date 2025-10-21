@@ -20,3 +20,12 @@ Video 3:In LangGraph, you can have multiple schemas to handle different types of
 source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/multiple-schemas.ipynb
 
 ---
+
+Video 4:Filter removes messages based on rules (like keeping only the last two) to control what the model sees.
+Trim shortens the chat by token count, keeping only the most recent context within limits.
+Both prevent token overflow and keep the AI focused on relevant information
+
+source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
+
+
+---
