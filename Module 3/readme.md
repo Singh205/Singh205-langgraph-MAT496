@@ -16,3 +16,8 @@ source file: https://github.com/langchain-ai/langchain-academy/blob/main/module-
 
 ---
 
+Video 3:I came to learn edit state with human feedback means you manually change the AI’s memory or context while it’s running. Like, if the AI misunderstood something, you can edit the state to fix it or guide it better. It helps you fine-tune how the AI thinks during a conversation.
+
+source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/edit-state-human-feedback.ipynb
+
+---
