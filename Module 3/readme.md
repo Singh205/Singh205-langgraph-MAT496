@@ -29,3 +29,10 @@ Video 4:A dynamic breakpoint is like a normal breakpoint but smarter. Instead of
 source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
 
 ---
+
+Video 5:I learned that time travel lets you move back and forth through the AI’s past states or steps. It’s like rewinding to see what the AI was thinking before or replaying how it got to a certain answer. It helps a lot when you want to debug or understand its decision process.
+
+
+source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/time-travel.ipynb
+
+---
