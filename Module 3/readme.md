@@ -21,3 +21,11 @@ Video 3:I came to learn edit state with human feedback means you manually change
 source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/edit-state-human-feedback.ipynb
 
 ---
+
+
+Video 4:A dynamic breakpoint is like a normal breakpoint but smarter. Instead of stopping every time, it only pauses when a certain condition is met — like when a variable hits a specific value. It helps you debug more precisely without stopping the program too often.
+
+
+source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
+
+---
