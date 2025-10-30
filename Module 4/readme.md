@@ -8,3 +8,9 @@ source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4
 
 ---
 
+Video 2:I learned that subgraphs in LangGraph are smaller, self-contained graphs **inside a larger graph**. They help **organize complex workflows** by grouping related nodes together, making the structure cleaner and easier to manage. Subgraphs can also be **reused** across different parts of a project.
+<img width="1619" height="789" alt="image" src="https://github.com/user-attachments/assets/4382d32c-8ddb-43e7-993f-1c2d109894fe" />
+
+Souce file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub-graph.ipynb
+
+---
