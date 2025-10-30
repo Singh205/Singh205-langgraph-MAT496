@@ -18,3 +18,14 @@ Video 3:I learned that map-reduce in LangGraph is used to handle large sets of d
 <img width="1676" height="852" alt="image" src="https://github.com/user-attachments/assets/ceae92ba-178d-4a0b-8363-6e687c2cb104" />
 
 Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
+
+---
+
+Video 4:I learned that the Research Assistant in LangGraph is an AI-powered tool that helps gather, analyze, and summarize information from multiple sources. It can search the web, process data, and generate insights, making it useful for automating research-heavy tasks.
+<img width="1620" height="841" alt="image" src="https://github.com/user-attachments/assets/1a904824-3a83-4580-a2d5-13fd8d89d950" />
+
+
+Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/research-assistant.ipynb
+
+
+---
