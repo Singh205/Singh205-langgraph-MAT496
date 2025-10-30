@@ -14,3 +14,7 @@ Video 2:I learned that subgraphs in LangGraph are smaller, self-contained graphs
 Souce file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub-graph.ipynb
 
 ---
+Video 3:I learned that map-reduce in LangGraph is used to handle large sets of data or tasks efficiently. The map step processes multiple chunks in parallel, and the reduce step combines their results into a final output. It’s great for speeding up workflows that involve repetitive or data-heavy operations.
+<img width="1676" height="852" alt="image" src="https://github.com/user-attachments/assets/ceae92ba-178d-4a0b-8363-6e687c2cb104" />
+
+Source file:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
